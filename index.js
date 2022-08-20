@@ -12,6 +12,5 @@ let num4=6;
 let mod=(num3%num4);
 console.log(mod);
 //returns the maximum number which is 20
-
 let max=(Math.max(5,6,7,9,14,15,20));
 console.log(max)
